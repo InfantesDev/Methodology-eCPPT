@@ -207,7 +207,7 @@ kerbrute userenum -d domain.local --dc 10.10.10.100 /opt/jsmith.txt
 **HYDRA**
 ```bash
 hydra -l administrator -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt 10.2.16.158 smb2
-****```
+```
 ### BREACHING AD
 #### [[PASSWORD SPRAYING]]
 ##### [[PASSWORD POLICIES ENUMERATION]]
