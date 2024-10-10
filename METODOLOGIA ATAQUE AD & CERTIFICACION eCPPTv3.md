@@ -1,6 +1,3 @@
-----
-- Tags #ecpptv3 #ad #active-directory #methodology #kerberoasting 
-----
 ## MAQUINAS EXPLOTACIÓN AD
 ### HACK THE BOX
 **[[SAUNA]]**
